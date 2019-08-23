@@ -9,4 +9,8 @@ To complete this assignment, edit this README by doing the following,
 Once your are done, save this file.
 
 Test
+Addi Davis
+I'm on the THS Dance team
+I want to be an aerospace engineer
 
+To learn and be able to code well
